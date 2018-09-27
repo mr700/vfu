@@ -1353,7 +1353,3 @@ GlobalOne      през GlobalOne
   O /                         SOFTWARE POLICE LINE                         \ O
 ───x────────────────────────────────────────────────────────────────────────x──
   O \                            DO NOT CROSS!                             / O
-
-
-
-

@@ -1039,6 +1039,3 @@ make: Fatal error: Don't know how to make target ` '
       Hic!  >__<  C|c|
            / \/ \//|_|                                       Край на брой 14.
           //|  |\/                          >>>--------->
-
-
-

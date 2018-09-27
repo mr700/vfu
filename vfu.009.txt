@@ -534,5 +534,3 @@ i inteligenten chowek, kakywto sym naprimer az, Veni, njama osobena
 prichina, poradi kojato wyprosnijat drajwer za kirilica bi mogyl da zabi
 
 *Buffer Overflow*
-
-
